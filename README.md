@@ -84,3 +84,4 @@ Local Storage is used for demonstration and coursework only. It is not a secure 
 - The reader opens the matching Google Books page/preview using the book ISBN. Full-text reading depends on Google Books/publisher preview rights; this frontend does not include copyrighted full-book PDF files.
 - This demo uses browser Local Storage. It is suitable for a single-browser demonstration, not secure multi-user authorization; production access control requires a backend.
 # FrentEndFinalProject
+# frentendproject
